@@ -6,4 +6,5 @@ The task of this project is to develop a machine learning model which helps phon
 
 
 Please review the code in the file "Project - Telecom Customer Churn Prediction.ipynb"
+
 Please review the final report in the file "final report/ Team_99.pdf"
