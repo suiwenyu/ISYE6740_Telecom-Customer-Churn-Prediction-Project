@@ -3,3 +3,7 @@ The industry of telecommunications is competitive. In this industry, customers a
 One important issue involved in retaining the customers is to detect those customers who are likely to change service providers in the near future. The phone carriers could reach out to these customers and retain them by offering special discounts or improving services based on their feedback, if the phone carriers could predict that these customers would churn. 
 
 The task of this project is to develop a machine learning model which helps phone carriers to predict their customer churns. The model will take each customer’s temporal behavioral data as input and predict if the customer will churn in the future. We will develop a few models using different algorithms, use cross validations to measure their performance, and select one model that performs best.
+
+
+Please review the code in the file "Project - Telecom Customer Churn Prediction.ipynb"
+Please review the final report in the file "final report/ Team_99.pdf"
